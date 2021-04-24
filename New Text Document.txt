@@ -1,0 +1,17 @@
+Download and install 
+anaconda https://youtu.be/g6ln1dAt-RI
+
+Speeech Recognition:
+https://pypi.org/project/SpeechRecognition/
+
+python text to speech:
+https://pypi.org/project/pyttsx3/
+
+python Audio:
+https://pypi.org/project/PyAudio/
+
+Whatkit:
+https://pypi.org/project/pywhatkit/
+
+Youtube:
+https://pypi.org/project/wikipedia/
